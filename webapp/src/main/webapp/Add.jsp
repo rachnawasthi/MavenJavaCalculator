@@ -37,7 +37,7 @@
         <table cellpadding ="10" cellspacing="10">
            
         <tr>          
-            <td> <input type="submit" value="Next_calculation" > </td>
+            <td> <input type="submit" value="Next calculation" > </td>
             </tr>
         </table>
      </form>  
